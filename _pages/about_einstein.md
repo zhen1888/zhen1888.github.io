@@ -1,4 +1,4 @@
-Zhen Sun received his B.S. degree from Harbin Institute of Technology in 2017 and M.S. degree from Shanghai Jiao Tong University in 2020, and has been pursuing his Ph.D. degree at Shanghai Jiao Tong University since then. 
+Zhen Sun received his B.S. degree from Harbin Institute of Technology in 2017 and M.S. degree from Shanghai Jiao Tong University in 2020, and has been pursuing his Ph.D. degree at Shanghai Jiao Tong University since then.
 
 His current research interests are in the research of theoretical methods of brain-inspired navigation for unknown and complex environments.
 
